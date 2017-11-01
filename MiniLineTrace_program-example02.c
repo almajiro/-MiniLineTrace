@@ -27,11 +27,11 @@
 /*********************************************************************************
  マクロ定義
  *********************************************************************************/
-#define SW		RB7 // タクトスイッチ
-#define LED		RA1 // LED (0)
-#define LED		RA0 // LED (1)
-#define LED		RA7 // LED (2)
-#define LED		RA6 // LED (3)
+#define SW	RB7 // タクトスイッチ
+#define LED	RA1 // LED (0)
+#define LED	RA0 // LED (1)
+#define LED	RA7 // LED (2)
+#define LED	RA6 // LED (3)
 #define R_IN1	RB5 // 右モータIN1
 #define R_IN2	RB4 // 右モータIN2
 #define L_IN1	RB2 // 左モータIN1
@@ -39,6 +39,7 @@
 #define SEN0	RA2 // センサ(0)
 #define SEN1	RA3 // センサ(1)
 #define SEN2	RA4 // センサ(2)
+#define SEN3	RA5 // センサ(3)
 #define SEN3	RA5 // センサ(3)
 
 /*********************************************************************************
